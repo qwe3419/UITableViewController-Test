@@ -12,6 +12,7 @@
 		34D62F5720AC064300727284 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34D62F5520AC064300727284 /* Main.storyboard */; };
 		34D62F5920AC064300727284 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34D62F5820AC064300727284 /* Assets.xcassets */; };
 		34D62F5C20AC064300727284 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34D62F5A20AC064300727284 /* LaunchScreen.storyboard */; };
+		34D62F6420AC06C400727284 /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D62F6320AC06C400727284 /* MyTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		34D62F5820AC064300727284 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		34D62F5B20AC064300727284 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		34D62F5D20AC064300727284 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34D62F6320AC06C400727284 /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				34D62F5120AC064300727284 /* AppDelegate.swift */,
 				34D62F5320AC064300727284 /* ViewController.swift */,
 				34D62F5520AC064300727284 /* Main.storyboard */,
+				34D62F6320AC06C400727284 /* MyTableViewController.swift */,
 				34D62F5820AC064300727284 /* Assets.xcassets */,
 				34D62F5A20AC064300727284 /* LaunchScreen.storyboard */,
 				34D62F5D20AC064300727284 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34D62F5420AC064300727284 /* ViewController.swift in Sources */,
+				34D62F6420AC06C400727284 /* MyTableViewController.swift in Sources */,
 				34D62F5220AC064300727284 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
